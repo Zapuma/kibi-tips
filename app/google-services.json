@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1015821552693",
+    "firebase_url": "https://kibi-tips.firebaseio.com",
+    "project_id": "kibi-tips",
+    "storage_bucket": "kibi-tips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1015821552693:android:c2247feee1428339",
+        "android_client_info": {
+          "package_name": "com.zapuma.kibitips"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1015821552693-nfc5bih9umsp7lervcpru2579ou69iko.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zapuma.kibitips",
+            "certificate_hash": "277CB2D1856F9BB891A5FD6EE18BBB415F1846B4"
+          }
+        },
+        {
+          "client_id": "1015821552693-2b75bsbrkvhebai3un4073je8ci50up8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDCZuOn3aIQXqC-m_N-JcxRQZs1Wa5WcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1015821552693-2b75bsbrkvhebai3un4073je8ci50up8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
